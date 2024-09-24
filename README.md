@@ -4,7 +4,7 @@ HOW TO REACH ME
 
 📧 tbruno20156@gmail.com
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-teodoro-fernandes-b81b471a2/)
 
 ![BrunoTF08 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoTf08&show_icons=true&theme=tokyonight)
